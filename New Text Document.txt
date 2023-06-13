@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 con cac
+=======
+ccccccccccccccccccccccccc
+hello
+>>>>>>> e7989ca8137834fc93af06fc280d150f9b1855cf
